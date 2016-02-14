@@ -3,7 +3,7 @@ of practice to achieve mastery in a field. I wrote this timer to
 measure how many hours I spent on my hobby.
 
 This timer provides statistics on daily, two weeks and in total since
-your usage.
+you start to use this software.
 
 I came up with this idea while I was playing DOTA2 on steam. Steam has
 the feature showing how many hours you spent on playing a specific
